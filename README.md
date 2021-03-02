@@ -12,5 +12,5 @@ xLogin - Instagram Login Class coded in VB.Net with many useful features!
 * Can send codes to **email** and or **phone number**!
 
 <p align="center">
-  <img src="https://i.imgur.com/rmdh6u2.png" alt="Tool Features" width="738">
+  <img src="https://i.imgur.com/rmdh6u2.png" alt="Tool Features" width="400">
 </p>
