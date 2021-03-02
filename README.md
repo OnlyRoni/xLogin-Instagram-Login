@@ -11,6 +11,6 @@ xLogin - Instagram Login Class coded in VB.Net with many useful features!
 * **Easy to access Cookies**.
 * Can send codes to **email** and or **phone number**!
 
-<p align="center">
+<p align="left">
   <img src="https://i.imgur.com/rmdh6u2.png" alt="Tool Features" width="400">
 </p>
